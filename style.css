@@ -4,12 +4,7 @@
       background-repeat: repeat;
       background-attachment: scroll;
       background-position: 0 0;
-      font-family: helvetica, arial, sans-serif;
-      margin: 2em;
-      text-shadow: 2px 2px 4px #000000;
-      font-style: normal;
-      color: #ffffff;
-      text-align: center;
+      font-family: "Comic Sans MS", sans-serif;
     }
 img {
   display: block;
