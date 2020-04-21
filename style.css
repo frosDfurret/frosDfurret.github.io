@@ -5,7 +5,10 @@
       background-attachment: scroll;
       background-position: 0 0;
       font-family: "Comic Sans MS", sans-serif;
-      color: #ffffff
+      margin: 2em;
+      text-shadow: 2px 2px 4px #000000;
+      font-style: normal;
+      color: #ffffff;
       text-align: center;
     }
 img {
